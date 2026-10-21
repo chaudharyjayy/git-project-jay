@@ -8,3 +8,7 @@ I am a student at ADYPU , currently learning Git and Github.
 - communication
 - problem solving
 - basic git 
+
+## Projects 
+- sahiti : Financial structuring and AI advisory for Entrepreneurs
+- NA
