@@ -16,3 +16,6 @@ I am a student at ADYPU , currently learning Git and Github.
 ## CONTACT
 - EMAIL : jayeshchoudhary996@gmail.com
 
+## Hobbies 
+- gaming
+- streaming music
